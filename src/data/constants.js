@@ -148,16 +148,10 @@ export const projects = [
     id: 9,
     title: "Calender",
     date: "Aug 2024 -  2024",
-    description: 
-      " Calender Using Html, Css, JavaScript",
+    description: " Calender Using Html, Css, JavaScript",
     image:
-      "", 
-    tags: [
-      "Html",
-      "Css",
-      
-      "JavaScript",
-    ],
+      "https://private-user-images.githubusercontent.com/131170132/361367783-2bae02a1-236d-46f3-8799-23b43f3621fa.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQ2NjE0MDcsIm5iZiI6MTcyNDY2MTEwNywicGF0aCI6Ii8xMzExNzAxMzIvMzYxMzY3NzgzLTJiYWUwMmExLTIzNmQtNDZmMy04Nzk5LTIzYjQzZjM2MjFmYS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODI2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgyNlQwODMxNDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yNzdhNWExYTg1YjljMWUzYzk4NTY0YWYzZmVkNDFlYjcwNDg2NDhiMGFlZWNjNDgwOWQxNzczNWU1OTAxNzg1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.Ul8y85ee6uDnm6Vu5kZiYUOW1pP0WdOI44GLExZxgmA",
+    tags: ["Html", "Css", "JavaScript"],
     category: "web app",
     github: "https://github.com/wdevelopershubham/calendar-app",
     webapp: "https://calendar-app-cfwi.vercel.app/",
