@@ -151,7 +151,7 @@ export const projects = [
     description: 
       " Calender Using Html, Css, JavaScript",
     image:
-      "",
+      "", 
     tags: [
       "Html",
       "Css",
