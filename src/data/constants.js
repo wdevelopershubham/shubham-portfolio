@@ -164,7 +164,7 @@ export const projects = [
   },
   {
     id: 0,
-    title: "React Js Calculator",
+    title: "React Js Calculator", 
     date: "Apr 2024 ",
     description: "Developed a React Js Calculator .",
     image:
@@ -180,14 +180,12 @@ export const projects = [
     date: "May 2024 - June 2024",
     description:
       "Designed and developed the Employee management app that helps users and teams stay organized and on track. Implemented key features such as Edit, Delete, and Update to improve productivity, CRUD Operations are used in it.",
-      "https://private-user-images.githubusercontent.com/131170132/361441726-cafe950e-f95d-4040-85fa-d73339c240e2.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQ2Nzc3OTksIm5iZiI6MTcyNDY3NzQ5OSwicGF0aCI6Ii8xMzExNzAxMzIvMzYxNDQxNzI2LWNhZmU5NTBlLWY5NWQtNDA0MC04NWZhLWQ3MzMzOWMyNDBlMi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODI2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgyNlQxMzA0NTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xN2VlNzc0ZjU5ZWUyZDMzMTlkYzFmOWRhMjZmNTE0ZTQzMzE2YzZhNWFjMzNiMjFhZjY4MWI2ZWVmOGFkNzZiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.ntWXODeUFQi4Gz2eWzXbjB64YH5cyAVx30S7XAEmFDM",
+     image: "https://private-user-images.githubusercontent.com/131170132/361441726-cafe950e-f95d-4040-85fa-d73339c240e2.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQ2Nzc3OTksIm5iZiI6MTcyNDY3NzQ5OSwicGF0aCI6Ii8xMzExNzAxMzIvMzYxNDQxNzI2LWNhZmU5NTBlLWY5NWQtNDA0MC04NWZhLWQ3MzMzOWMyNDBlMi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODI2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgyNlQxMzA0NTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xN2VlNzc0ZjU5ZWUyZDMzMTlkYzFmOWRhMjZmNTE0ZTQzMzE2YzZhNWFjMzNiMjFhZjY4MWI2ZWVmOGFkNzZiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.ntWXODeUFQi4Gz2eWzXbjB64YH5cyAVx30S7XAEmFDM",
     tags: [
       "React Js",
-      "",
+      
       "Node Js",
-      "",
-      "",
-      "",
+      
     ],
     category: "web app",
     github: "https://github.com/wdevelopershubham/Employe-management-system",
