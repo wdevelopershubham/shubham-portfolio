@@ -1,4 +1,3 @@
-
 export const Bio = {
   name: "Shubham",
   roles: [
@@ -14,7 +13,6 @@ export const Bio = {
   linkedin: "https://www.linkedin.com/in/shubham-kumar-bbb067265/",
   twitter: "https://twitter.com/oi_fluid",
   insta: "https://www.instagram.com/oi_fluid/",
- 
 };
 
 export const skills = [
@@ -118,7 +116,15 @@ export const experiences = [
     company: "Internshala",
     date: "November 2023 - Janauary 2024",
     desc: "Working on the frontend of the web application using ReactJS, and JavaScript.",
-    skills: ["ReactJS", "NodeJs", "HTML", "CSS", "JavaScript", "MySql","Bootstrap" ],
+    skills: [
+      "ReactJS",
+      "NodeJs",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "MySql",
+      "Bootstrap",
+    ],
     doc: "https://trainings.internshala.com/uploads/certificates/COC-446uovqfipz.jpg?t=1704293191",
   },
 ];
@@ -156,53 +162,37 @@ export const projects = [
     github: "https://github.com/wdevelopershubham/calendar-app",
     webapp: "https://calendar-app-cfwi.vercel.app/",
   },
-  // {
-  //   id: 0,
-  //   title: "Podstream",
-  //   date: "Apr 2023 - May 2023",
-  //   description:
-  //     "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
-  //   image:
-  //     "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
-  //   tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
-  //   category: "web app",
-  //   github: "https://github.com/rishavchanda/Podstream",
-  //   webapp: "https://podstream.netlify.app/",
-  //   member: [
-  //     {
-  //       name: "Rishav Chanda",
-  //       img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-  //       linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-  //       github: "https://github.com/rishavchanda/",
-  //     },
-  //     {
-  //       name: "Upasana Chaudhuri",
-  //       img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-  //       linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-  //       github: "https://github.com/upasana0710",
-  //     },
-  //   ],
-  // },
-  // {
-  //   id: 1,
-  //   title: "Vexa",
-  //   date: "Oct 2022 - Present",
-  //   description:
-  //     "Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
-  //   image:
-  //     "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
-  //   tags: [
-  //     "React Js",
-  //     "MongoDb",
-  //     "Node Js",
-  //     "Express Js",
-  //     "Redux",
-  //     "NodeMailer",
-  //   ],
-  //   category: "web app",
-  //   github: "https://github.com/rishavchanda/Project-Management-App",
-  //   webapp: "https://vexa-app.netlify.app/",
-  // },
+  {
+    id: 0,
+    title: "React Js Calculator",
+    date: "Apr 2024 ",
+    description: "Developed a React Js Calculator .",
+    image:
+      "https://private-user-images.githubusercontent.com/131170132/361439786-32c616a2-0ca5-4ac7-97bf-fc32a89d5f19.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQ2Nzc2NjEsIm5iZiI6MTcyNDY3NzM2MSwicGF0aCI6Ii8xMzExNzAxMzIvMzYxNDM5Nzg2LTMyYzYxNmEyLTBjYTUtNGFjNy05N2JmLWZjMzJhODlkNWYxOS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODI2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgyNlQxMzAyNDFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lOGFhNmQ5ZjliYTU2ZmUzZTMyNjg0ZjEzYjYxZTRmODJmOTcyZTMwZGRmNWRiYTM1ZjI5NWQ5MmMzMWI3MWU4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.klGp63I-X5IKFpPUMrIQLXcmVmf-9b7P9IFSRTIxhvc",
+    tags: ["React Js", "Css", "Html", "JavaScript ", ""],
+    category: "web app",
+    github: "https://github.com/wdevelopershubham/Reactjs-Calculator",
+    webapp: "https://reactjs-calculator-vert.vercel.app/",
+  },
+  {
+    id: 1,
+    title: "Employee Management System",
+    date: "May 2024 - June 2024",
+    description:
+      "Designed and developed the Employee management app that helps users and teams stay organized and on track. Implemented key features such as Edit, Delete, and Update to improve productivity, CRUD Operations are used in it.",
+      "https://private-user-images.githubusercontent.com/131170132/361441726-cafe950e-f95d-4040-85fa-d73339c240e2.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQ2Nzc3OTksIm5iZiI6MTcyNDY3NzQ5OSwicGF0aCI6Ii8xMzExNzAxMzIvMzYxNDQxNzI2LWNhZmU5NTBlLWY5NWQtNDA0MC04NWZhLWQ3MzMzOWMyNDBlMi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODI2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgyNlQxMzA0NTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xN2VlNzc0ZjU5ZWUyZDMzMTlkYzFmOWRhMjZmNTE0ZTQzMzE2YzZhNWFjMzNiMjFhZjY4MWI2ZWVmOGFkNzZiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.ntWXODeUFQi4Gz2eWzXbjB64YH5cyAVx30S7XAEmFDM",
+    tags: [
+      "React Js",
+      "",
+      "Node Js",
+      "",
+      "",
+      "",
+    ],
+    category: "web app",
+    github: "https://github.com/wdevelopershubham/Employe-management-system",
+    webapp: "https://employe-management-system-lovat.vercel.app/",
+  },
   // {
   //   id: 2,
   //   title: "Brain Tumor Detection",
