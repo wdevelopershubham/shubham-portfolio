@@ -169,7 +169,7 @@ export const projects = [
     description: "Developed a React Js Calculator .",
     image:
       "https://private-user-images.githubusercontent.com/131170132/361439786-32c616a2-0ca5-4ac7-97bf-fc32a89d5f19.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQ2Nzc2NjEsIm5iZiI6MTcyNDY3NzM2MSwicGF0aCI6Ii8xMzExNzAxMzIvMzYxNDM5Nzg2LTMyYzYxNmEyLTBjYTUtNGFjNy05N2JmLWZjMzJhODlkNWYxOS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODI2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgyNlQxMzAyNDFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lOGFhNmQ5ZjliYTU2ZmUzZTMyNjg0ZjEzYjYxZTRmODJmOTcyZTMwZGRmNWRiYTM1ZjI5NWQ5MmMzMWI3MWU4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.klGp63I-X5IKFpPUMrIQLXcmVmf-9b7P9IFSRTIxhvc",
-    tags: ["React Js", "Css", "Html", "JavaScript ", ""],
+    tags: ["React Js", "Css", "Html", "JavaScript ", ],
     category: "web app",
     github: "https://github.com/wdevelopershubham/Reactjs-Calculator",
     webapp: "https://reactjs-calculator-vert.vercel.app/",
