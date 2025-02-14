@@ -9,7 +9,7 @@ export const Bio = {
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/wdevelopershubham",
-  resume: "https://1drv.ms/w/s!AhgeZZvSuf0uhJIK6dcYgU6gxxpnsg?e=wwHAkV",
+  resume: "https://drive.google.com/file/d/16e8OfjYkP_1-94PB1kPp_c86AYoY_p24/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/shubham-kumar-bbb067265/",
   twitter: "https://twitter.com/oi_fluid",
   insta: "https://www.instagram.com/oi_fluid/",
